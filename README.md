@@ -25,6 +25,10 @@ yarn install
 yarn sc:types
 # Open web application
 yarn dev
+# Generate typing for server
+yarn sc:api-types
+# Run Express server on port 3001
+yarn server:dev
 ```
 
 ## Author
