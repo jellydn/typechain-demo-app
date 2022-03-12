@@ -5,6 +5,13 @@
 
 > How to use Typechain with Ethers V5
 
+## Features
+
+- 📦 [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum library and wallet implementation in JavaScript.
+- 🦾 [Typechain target Ethers-v5](https://github.com/dethcrypto/TypeChain/blob/master/packages/target-ethers-v5/README.md) - TypeScript bindings for Ethers 5.x.x smartcontracts
+- 🔥 [new-web-app](https://github.com/jellydn/new-web-app) - Frontend app generator, built on top vitejs
+- 🎨 [UnoCSS](https://unocss.antfu.me/) - The instant on-demand atomic CSS engine.
+
 ## Install
 
 ```sh
