@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
+    "sc:types": "typechain --target ethers-v5 --out-dir src/contracts 'ABI/*.json'",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "storybook": "start-storybook -p 6006",
@@ -11,6 +12,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "ethers": "^5.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
@@ -23,6 +25,7 @@
     "@storybook/react": "^6.4.19",
     "@storybook/testing-library": "^0.0.9",
     "@trivago/prettier-plugin-sort-imports": "^3.2.0",
+    "@typechain/ethers-v5": "^9.0.0",
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
     "@typescript-eslint/eslint-plugin": "^5.14.0",
@@ -34,6 +37,7 @@
     "husky": ">=6",
     "lint-staged": ">=10",
     "prettier": "^2.5.1",
+    "typechain": "^7.0.1",
     "typescript": "^4.6.2",
     "vite": "^2.8.0"
   },
