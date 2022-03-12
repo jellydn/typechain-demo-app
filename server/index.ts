@@ -17,9 +17,13 @@ app.get("/api/info", async (_req, res) => {
   );
 
   // call some methods on the contract
-  const name = await itmanToken.name();
-  const totalSupply = await itmanToken.totalSupply();
-  const owner = await itmanToken.owner();
+  const [name, totalSupply, owner] = await Promise.all([
+    itmanToken.name(),
+    itmanToken.totalSupply(),
+    itmanToken.owner(),
+  ]);
+
+  // send the response
   res.json({
     name,
     totalSupply,
@@ -27,4 +31,6 @@ app.get("/api/info", async (_req, res) => {
   });
 });
 
-app.listen(3001);
+app.listen(3001, () => {
+  console.log("Server started on port 3001");
+});
