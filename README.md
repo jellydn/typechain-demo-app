@@ -5,6 +5,8 @@
 
 > How to use Typechain with Ethers V5
 
+[![TypeChain - 🔌 TypeScript bindings for Ethereum smart contracts](https://img.youtube.com/vi/p83-lWMUP34/0.jpg)](https://www.youtube.com/watch?v=p83-lWMUP34)
+
 ## Features
 
 - 📦 [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum library and wallet implementation in JavaScript.

@@ -15,6 +15,11 @@ const DemoApp = () => {
       provider
     );
 
+    itmanToken
+      .balanceOf("0xB97F055793ea5210d3F518F395283E3deFFD43DE")
+      .then(console.log)
+      .catch(console.error);
+
     // call some methods on the contract
     itmanToken.name().then(console.log).catch(console.error);
     itmanToken.totalSupply().then(console.log).catch(console.error);
