@@ -37,7 +37,7 @@
     "@unocss/preset-wind": "0.45.29",
     "@vitejs/plugin-react": "2.1.0",
     "babel-loader": "8.2.5",
-    "eslint": "8.25.0",
+    "eslint": "8.26.0",
     "eslint-config-productsway": "0.1.16",
     "husky": "8.0.1",
     "lint-staged": "13.0.3",
