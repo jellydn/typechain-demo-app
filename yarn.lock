@@ -3362,11 +3362,6 @@
     "@unocss/core" "0.45.30"
     unconfig "^0.3.7"
 
-"@unocss/core@0.45.29":
-  version "0.45.29"
-  resolved "https://registry.yarnpkg.com/@unocss/core/-/core-0.45.29.tgz#3a71fff138c0ebd03d3714c67db3035be0e46be2"
-  integrity sha512-ElnT15Hqb1PZY293HI1CSE73/I76Wsc4sczQCQRHlMrAb73JeB5iM3XOWJFGWqChb7Z5dP+mwDExXgNpRxCQjQ==
-
 "@unocss/core@0.45.30":
   version "0.45.30"
   resolved "https://registry.yarnpkg.com/@unocss/core/-/core-0.45.30.tgz#e83f2d06b550ca9d2e5713e6eba887476d02ca75"
@@ -3395,13 +3390,6 @@
     "@iconify/utils" "^2.0.1"
     "@unocss/core" "0.45.30"
     ohmyfetch "^0.4.20"
-
-"@unocss/preset-mini@0.45.29":
-  version "0.45.29"
-  resolved "https://registry.yarnpkg.com/@unocss/preset-mini/-/preset-mini-0.45.29.tgz#46659a9caa473228c47dc428019357e8ad2e5fa1"
-  integrity sha512-3Js/6GVg8B4MRl6lL9/px+Znk/8LO508/+HUQJBSymBriowio9kQjN6WXHosQMQMeEVCRfQnkSl9LHEmKPQs5A==
-  dependencies:
-    "@unocss/core" "0.45.29"
 
 "@unocss/preset-mini@0.45.30":
   version "0.45.30"
@@ -3440,14 +3428,6 @@
   dependencies:
     "@unocss/core" "0.45.30"
     ohmyfetch "^0.4.20"
-
-"@unocss/preset-wind@0.45.29":
-  version "0.45.29"
-  resolved "https://registry.yarnpkg.com/@unocss/preset-wind/-/preset-wind-0.45.29.tgz#f2d920fae50125daf090b7bea0242a09735e1ba1"
-  integrity sha512-3Bjg8ZNFLR060nhiBA4p9GRbk9lrr8eBxK3lUVYo93bQXGBIbU9Lo5w+8g9YzfTJt+Fw2rqN/rfYCvNuS98z6Q==
-  dependencies:
-    "@unocss/core" "0.45.29"
-    "@unocss/preset-mini" "0.45.29"
 
 "@unocss/preset-wind@0.45.30":
   version "0.45.30"
