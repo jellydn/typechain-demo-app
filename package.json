@@ -35,7 +35,7 @@
     "@typescript-eslint/eslint-plugin": "5.40.1",
     "@typescript-eslint/parser": "5.40.1",
     "@unocss/preset-wind": "0.45.30",
-    "@vitejs/plugin-react": "2.1.0",
+    "@vitejs/plugin-react": "3.0.0",
     "babel-loader": "9.1.0",
     "eslint": "8.26.0",
     "eslint-config-productsway": "0.1.16",
