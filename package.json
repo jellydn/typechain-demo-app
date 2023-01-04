@@ -20,7 +20,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@babel/core": "7.20.7",
+    "@babel/core": "7.20.12",
     "@storybook/addon-actions": "6.5.15",
     "@storybook/addon-essentials": "6.5.15",
     "@storybook/addon-interactions": "6.5.15",
@@ -36,7 +36,7 @@
     "@typescript-eslint/parser": "5.48.0",
     "@unocss/preset-wind": "0.48.0",
     "@vitejs/plugin-react": "3.0.0",
-    "babel-loader": "9.1.0",
+    "babel-loader": "9.1.2",
     "eslint": "8.31.0",
     "eslint-config-productsway": "0.2.0",
     "husky": "8.0.3",
