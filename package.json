@@ -40,7 +40,7 @@
     "eslint": "8.33.0",
     "eslint-config-productsway": "0.2.0",
     "husky": "8.0.3",
-    "lint-staged": "13.1.0",
+    "lint-staged": "15.4.3",
     "prettier": "2.8.3",
     "ts-node": "10.9.1",
     "ts-node-dev": "2.0.0",
